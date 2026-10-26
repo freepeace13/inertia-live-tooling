@@ -1,0 +1,13 @@
+{
+  "name": "inertia-live-tooling",
+  "private": true,
+  "type": "module",
+  "description": "Release tooling shared by the inertia-live repositories",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test test/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
